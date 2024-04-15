@@ -34,14 +34,17 @@ print("{:.2f}".format(two_matrix))
 ```
 ## Output:
 ### 1-Norm of a Matrix
-![image](https://github.com/NSArjun/Norm-of-a-matrix/assets/148233801/9da4ff6b-8a65-41f5-8ff3-42cb7824cdc4)
+![image](https://github.com/NSArjun/Norm-of-a-matrix/assets/148233801/4d670d27-aed6-4dea-8122-251c7e37e7ef)
+
 
 ### 2-Norm of a Matrix
-![image](https://github.com/NSArjun/Norm-of-a-matrix/assets/148233801/b4c40672-660d-455e-bc39-cc3709ca4462)
+![image](https://github.com/NSArjun/Norm-of-a-matrix/assets/148233801/0efde007-00c7-419a-b0de-4e09473df728)
+
 
 
 ### Infinity Norm of a Matrix:
-![image](https://github.com/NSArjun/Norm-of-a-matrix/assets/148233801/d39ed15b-57f7-46f4-b288-53252ca82185)
+
+![image](https://github.com/NSArjun/Norm-of-a-matrix/assets/148233801/b842df42-824e-40c4-8e4c-8c429ca5e644)
 
 
 
